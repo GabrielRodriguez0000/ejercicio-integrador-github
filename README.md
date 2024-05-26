@@ -22,7 +22,9 @@
 5. Abre un pull request en GitHub
 
 Autores: Gabriel Ernesto Rodríguez Carmenate
+
          Erika Martínez Meneses
 
 Email: gabrielerc64@gmail.com
+
        martiezerika474@gmail.com
